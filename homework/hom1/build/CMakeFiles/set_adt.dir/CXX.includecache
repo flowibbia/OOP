@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nico/Desktop/Università/OOP/homework/hom1/set.cpp
+iostream
+-
+set.h
+/home/nico/Desktop/Università/OOP/homework/hom1/set.h
+
+/home/nico/Desktop/Università/OOP/homework/hom1/set.h
+

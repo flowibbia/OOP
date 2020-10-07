@@ -1,8 +1,8 @@
   const int MAX_ELEMENTS = 1000;
 
     
-  struct Set{
-      void init(int l);			// funzione di inizializzazione.
+  struct Set {
+      void init();			// funzione di inizializzazione.
       int  size();			// restituisce la cardinalità dell'insieme.
       bool full();			// restituisce TRUE se è pieno.
       bool empty();			// restituisce TRUE se è vuoto.
@@ -16,4 +16,5 @@
       TipoValue *v;
       int  n, len;
       void elim(int i); // funzione di eliminazione
+      void change_dim(float f);
   };

@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/set_adt.dir/main.cpp.o CMakeFiles/set_adt.dir/set.cpp.o  -o set_adt 

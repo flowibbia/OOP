@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nico/Desktop/Università/OOP/homework/hom1/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/set_adt.dir/main.cpp.o -c /home/nico/Desktop/Università/OOP/homework/hom1/main.cpp",
+  "file": "/home/nico/Desktop/Università/OOP/homework/hom1/main.cpp"
+},
+{
+  "directory": "/home/nico/Desktop/Università/OOP/homework/hom1/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/set_adt.dir/set.cpp.o -c /home/nico/Desktop/Università/OOP/homework/hom1/set.cpp",
+  "file": "/home/nico/Desktop/Università/OOP/homework/hom1/set.cpp"
+}
+]
