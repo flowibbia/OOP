@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nico/Desktop/Università/OOP/homework/hom1_2/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Vettore_ordinato.dir/Set.cpp.o -c /home/nico/Desktop/Università/OOP/homework/hom1_2/Set.cpp",
+  "file": "/home/nico/Desktop/Università/OOP/homework/hom1_2/Set.cpp"
+},
+{
+  "directory": "/home/nico/Desktop/Università/OOP/homework/hom1_2/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Vettore_ordinato.dir/main.cpp.o -c /home/nico/Desktop/Università/OOP/homework/hom1_2/main.cpp",
+  "file": "/home/nico/Desktop/Università/OOP/homework/hom1_2/main.cpp"
+}
+]

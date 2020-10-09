@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/Vettore_ordinato.dir/Set.cpp.o CMakeFiles/Vettore_ordinato.dir/main.cpp.o  -o Vettore_ordinato 
